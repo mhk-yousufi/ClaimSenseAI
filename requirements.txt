@@ -1,0 +1,14 @@
+streamlit==1.32.0
+torch==2.2.1
+torchvision==0.17.1
+opencv-python==4.9.0.80
+PyMuPDF==1.23.26
+pytesseract==0.3.10
+langchain==0.1.13
+google-generativeai==0.4.1
+shap==0.45.0
+reportlab==4.1.0
+pandas==2.2.1
+scikit-learn==1.4.1.post1
+Pillow==10.2.0
+matplotlib==3.8.3
